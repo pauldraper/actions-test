@@ -5,4 +5,3 @@ jobs:
     - run: echo foo
 on:
   workflow_dispatch:
-foo: afdas
