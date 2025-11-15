@@ -1,0 +1,8 @@
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+    steps:
+    - run: echo foo
+on:
+  workflow_dispatch:
+foo: afdas
