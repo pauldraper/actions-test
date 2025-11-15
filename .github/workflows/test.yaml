@@ -1,5 +1,3 @@
-_meta:
-  foo: bar
 jobs:
   test:
     runs-on: ubuntu-22.04
