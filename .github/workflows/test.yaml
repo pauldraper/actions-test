@@ -1,7 +1,8 @@
+_meta:
+  foo: bar
 jobs:
   test:
     runs-on: ubuntu-22.04
-    foo: bar
     steps:
     - run: echo foo
 on:
